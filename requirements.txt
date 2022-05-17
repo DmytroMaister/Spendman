@@ -1,0 +1,8 @@
+Packages{
+    Tkinter
+    Tkcalendar
+    SQLite3
+    datetime
+    }
+
+Py2app for mac or pyinstaller for Windows
